@@ -4,6 +4,8 @@ public class StringMethods {
     {
         String str = "Sun rises in the east";
         System.out.println(str.length());
+
+        System.out.println(str.charAt(5));
     }
     
 }
