@@ -7,6 +7,7 @@ public class StringReverse {
         char name[] = str.toCharArray();
 
                 int start = 0;
+             
 
         int end = name.length- 1;
 
